@@ -1,0 +1,47 @@
+[
+  {
+    "imgName":"1.jpg",
+    "imgTitle":"this is the picture 1",
+    "imgDetail":"this is the picture 1 is beauty and this is a demo"
+  },
+  {
+    "imgName":"2.jpg",
+    "imgTitle":"this is the picture 2",
+    "imgDetail":"this is the picture 2 is beauty and this is a demo"
+  },
+  {
+    "imgName":"3.jpg",
+    "imgTitle":"this is the picture 3",
+    "imgDetail":"this is the picture 3 is beauty and this is a demo"
+  },
+  {
+    "imgName":"4.jpg",
+    "imgTitle":"this is the picture 4",
+    "imgDetail":"this is the picture 4 is beauty and this is a demo"
+  },
+  {
+    "imgName":"5.jpg",
+    "imgTitle":"this is the picture 5",
+    "imgDetail":"this is the picture 5 is beauty and this is a demo"
+  },
+  {
+    "imgName":"6.jpg",
+    "imgTitle":"this is the picture 6",
+    "imgDetail":"this is the picture 6 is beauty and this is a demo"
+  },
+  {
+    "imgName":"7.jpg",
+    "imgTitle":"this is the picture 7",
+    "imgDetail":"this is the picture 7 is beauty and this is a demo"
+  },
+  {
+    "imgName":"8.jpg",
+    "imgTitle":"this is the picture 8",
+    "imgDetail":"this is the picture 8 is beauty and this is a demo"
+  },
+  {
+    "imgName":"9.jpg",
+    "imgTitle":"this is the picture 9",
+    "imgDetail":"this is the picture 9 is beauty and this is a demo"
+  }
+]
